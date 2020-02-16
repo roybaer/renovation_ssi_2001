@@ -1,0 +1,9 @@
+(module VIA_1.2mm_0.6mm_Untented (layer F.Cu) (tedit 5E46ADA9)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VIA_1.2mm_0.6mm_Untented (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask))
+)

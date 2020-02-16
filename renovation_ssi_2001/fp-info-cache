@@ -1,0 +1,162 @@
+36378389593529
+SSI_2001
+BUS_XT
+AT ISA 16 bits Bus Edge Connector
+BUS ISA AT Edge connector
+0
+62
+62
+SSI_2001
+BUS_XT_backup
+AT ISA 16 bits Bus Edge Connector
+BUS ISA AT Edge connector
+0
+62
+62
+SSI_2001
+CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=18mm, , length*diameter=11*5mm^2, Electrolytic Capacitor
+CP Axial series Axial Horizontal pin pitch 18mm  length 11mm diameter 5mm Electrolytic Capacitor
+0
+2
+2
+SSI_2001
+CP_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+0
+2
+2
+SSI_2001
+C_Disc_D3.4mm_W2.1mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.4*2.1mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 3.4mm width 2.1mm Capacitor
+0
+2
+2
+SSI_2001
+C_Disc_D3.4mm_W2.1mm_P2.50mm_alt
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.4*2.1mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 3.4mm width 2.1mm Capacitor
+0
+2
+2
+SSI_2001
+Cinch_Kycon_KLPX-0848A-2-B
+
+
+0
+2
+2
+SSI_2001
+DIP-14_W7.62mm
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+SSI_2001
+DIP-16_W7.62mm
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+SSI_2001
+DIP-20_W7.62mm
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+20
+20
+SSI_2001
+DIP-28_W15.24mm
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+28
+28
+SSI_2001
+DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+15
+15
+SSI_2001
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+SSI_2001
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+SSI_2001
+PinHeader_2x03_P2.54mm_Vertical
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+SSI_2001
+PinHeader_2x04_P2.54mm_Vertical
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
+SSI_2001
+R_Array_SIP10
+10-pin Resistor SIP pack
+R
+0
+10
+10
+SSI_2001
+R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal
+Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm
+0
+2
+2
+SSI_2001
+SSOP-14_5.3x6.2mm_P0.65mm
+SSOP14: plastic shrink small outline package; 14 leads; body width 5.3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot337-1_po.pdf)
+SSOP 0.65
+0
+14
+14
+SSI_2001
+TO-92
+TO-92 leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+SSI_2001
+VIA_1.2mm_0.6mm_Untented
+
+
+0
+1
+1
+SSI_2001
+VIA_1.6mm_0.8mm_Untented
+
+
+0
+1
+1
+SSI_2001
+renovation_logo
+
+
+0
+0
+0
