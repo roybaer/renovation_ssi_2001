@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "RENOVATION SSI-2001"
-Date "2020-03-08"
+Date "2020-03-10"
 Rev ""
 Comp "Benedikt Freisen"
 Comment1 ""
@@ -1213,7 +1213,7 @@ L Device:C C20
 U 1 1 5E68C737
 P 12400 4650
 F 0 "C20" H 12515 4696 50  0000 L CNN
-F 1 "C" H 12515 4605 50  0000 L CNN
+F 1 "100nF" H 12515 4605 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 12438 4500 50  0001 C CNN
 F 3 "~" H 12400 4650 50  0001 C CNN
 	1    12400 4650
@@ -1224,7 +1224,7 @@ L Device:R R7
 U 1 1 5E181EBC
 P 11850 4500
 F 0 "R7" V 11643 4500 50  0000 C CNN
-F 1 "R" V 11734 4500 50  0000 C CNN
+F 1 "100" V 11734 4500 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 11780 4500 50  0001 C CNN
 F 3 "~" H 11850 4500 50  0001 C CNN
 	1    11850 4500
@@ -1276,7 +1276,7 @@ NoConn ~ 12650 6900
 NoConn ~ 12650 7000
 NoConn ~ 13950 7900
 Text Notes 14450 8600 0    50   ~ 0
-(programming via SID_D5, SID_D6)
+Note:\n\nSID_D5 is SWDIO, SID_D6 is SWCLK
 NoConn ~ 12650 7200
 NoConn ~ 12650 7300
 NoConn ~ 12650 7400
@@ -1654,7 +1654,7 @@ L Device:C C7
 U 1 1 5E16CF9C
 P 13600 4450
 F 0 "C7" H 13485 4404 50  0000 R CNN
-F 1 "C" H 13485 4495 50  0000 R CNN
+F 1 "DNP" H 13485 4495 50  0000 R CNN
 F 2 "SSI_2001:C_Disc_D3.4mm_W2.1mm_P2.50mm_alt" H 13638 4300 50  0001 C CNN
 F 3 "~" H 13600 4450 50  0001 C CNN
 	1    13600 4450
@@ -2689,4 +2689,21 @@ Connection ~ 11500 3000
 Wire Wire Line
 	11500 3000 12500 3000
 Connection ~ 12500 3000
+Text Notes 14300 5850 0    50   ~ 0
+Note:\n\nThe STM32 can either pull LOWPASS\nand/or ATTENUATOR to GND or leave\nthem floating, i.e. both elements can\neffectively be switched off.
+$Comp
+L Connector:TestPoint TP1
+U 1 1 5E69B41B
+P 6100 5800
+F 0 "TP1" H 6158 5918 50  0000 L CNN
+F 1 "TestPoint" H 6158 5827 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.5x1.5mm" H 6300 5800 50  0001 C CNN
+F 3 "~" H 6300 5800 50  0001 C CNN
+	1    6100 5800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6100 5800 6100 6000
+Text Notes 3700 6500 0    50   ~ 0
+(Fast ISA mod: Disconnect U2 pad 4 from trace and bridge to TP1.)
 $EndSCHEMATC

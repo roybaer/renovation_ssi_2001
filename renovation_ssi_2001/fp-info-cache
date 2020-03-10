@@ -1,162 +1,400 @@
-36378389593529
-SSI_2001
-BUS_XT
-AT ISA 16 bits Bus Edge Connector
-BUS ISA AT Edge connector
-0
-62
-62
-SSI_2001
-BUS_XT_backup
-AT ISA 16 bits Bus Edge Connector
-BUS ISA AT Edge connector
-0
-62
-62
-SSI_2001
-CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal
-CP, Axial series, Axial, Horizontal, pin pitch=18mm, , length*diameter=11*5mm^2, Electrolytic Capacitor
-CP Axial series Axial Horizontal pin pitch 18mm  length 11mm diameter 5mm Electrolytic Capacitor
+89703717510938
+TestPoint
+TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
+Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm
+CONN DEV
 0
 2
 2
-SSI_2001
-CP_Radial_D6.3mm_P2.50mm
-CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+TestPoint
+TestPoint_2Pads_Pitch5.08mm_Drill1.3mm
+Test point with 2 pads, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+CONN DEV
 0
 2
 2
-SSI_2001
-C_Disc_D3.4mm_W2.1mm_P2.50mm
-C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.4*2.1mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
-C Disc series Radial pin pitch 2.50mm  diameter 3.4mm width 2.1mm Capacitor
+TestPoint
+TestPoint_Bridge_Pitch2.0mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
 0
 2
-2
-SSI_2001
-C_Disc_D3.4mm_W2.1mm_P2.50mm_alt
-C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.4*2.1mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
-C Disc series Radial pin pitch 2.50mm  diameter 3.4mm width 2.1mm Capacitor
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
 0
 2
-2
-SSI_2001
-Cinch_Kycon_KLPX-0848A-2-B
-
-
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill1.0mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.0mm, wire diameter 0.8mm
+test point wire loop
 0
 2
-2
-SSI_2001
-DIP-14_W7.62mm
-14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-14
-14
-SSI_2001
-DIP-16_W7.62mm
-16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-16
-16
-SSI_2001
-DIP-20_W7.62mm
-20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-20
-20
-SSI_2001
-DIP-28_W15.24mm
-28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil
-0
-28
-28
-SSI_2001
-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-15
-15
-SSI_2001
-MountingHole_3.2mm_M3
-Mounting Hole 3.2mm, no annular, M3
-mounting hole 3.2mm no annular m3
-0
-0
-0
-SSI_2001
-PinHeader_1x02_P2.54mm_Vertical
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill1.3mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
 2
-2
-SSI_2001
-PinHeader_2x03_P2.54mm_Vertical
-Through hole straight pin header, 2x03, 2.54mm pitch, double rows
-Through hole pin header THT 2x03 2.54mm double row
-0
-6
-6
-SSI_2001
-PinHeader_2x04_P2.54mm_Vertical
-Through hole straight pin header, 2x04, 2.54mm pitch, double rows
-Through hole pin header THT 2x04 2.54mm double row
-0
-8
-8
-SSI_2001
-R_Array_SIP10
-10-pin Resistor SIP pack
-R
-0
-10
-10
-SSI_2001
-R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal
-Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm
+1
+TestPoint
+TestPoint_Bridge_Pitch3.81mm_Drill1.3mm
+wire loop as test point, pitch 3.81mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
 2
+1
+TestPoint
+TestPoint_Bridge_Pitch5.08mm_Drill0.7mm
+wire loop as test point, pitch 5.08mm, hole diameter 0.7mm, wire diameter 1.0mm
+test point wire loop
+0
 2
-SSI_2001
-SSOP-14_5.3x6.2mm_P0.65mm
-SSOP14: plastic shrink small outline package; 14 leads; body width 5.3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot337-1_po.pdf)
-SSOP 0.65
+1
+TestPoint
+TestPoint_Bridge_Pitch5.08mm_Drill1.3mm
+wire loop as test point, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
-14
-14
-SSI_2001
-TO-92
-TO-92 leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch6.35mm_Drill1.3mm
+wire loop as test point, pitch 6.35mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
-3
-3
-SSI_2001
-VIA_1.2mm_0.6mm_Untented
-
-
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch7.62mm_Drill1.3mm
+wire loop as test point, pitch 7.62mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Keystone_5000-5004_Miniature
+Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309
+Through Hole Mount Test Points
 0
 1
 1
-SSI_2001
-VIA_1.6mm_0.8mm_Untented
-
-
+TestPoint
+TestPoint_Keystone_5005-5009_Compact
+Keystone Miniature THM Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314
+Through Hole Mount Test Points
 0
 1
 1
-SSI_2001
-renovation_logo
-
-
+TestPoint
+TestPoint_Keystone_5010-5014_Multipurpose
+Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319
+Through Hole Mount Test Points
 0
+1
+1
+TestPoint
+TestPoint_Keystone_5015_Micro-Minature
+SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353
+Test Point
 0
+1
+1
+TestPoint
+TestPoint_Keystone_5019_Minature
+SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
+Test Point
 0
+1
+1
+TestPoint
+TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded
+wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
+low profile wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.85mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.85mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded
+wire loop with bead as test point, loop diameter2.548mm, hole diameter 1.5mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.4mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.6mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter 3.5mm, hole diameter 1.4mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.0mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.5mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.5mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.8mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_1.5x1.5mm
+SMD rectangular pad as test Point, square 1.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_2.0x2.0mm
+SMD rectangular pad as test Point, square 2.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_2.5x2.5mm
+SMD rectangular pad as test Point, square 2.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_3.0x3.0mm
+SMD rectangular pad as test Point, square 3.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_4.0x4.0mm
+SMD rectangular pad as test Point, square 4.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D1.5mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D2.0mm
+SMD pad as test Point, diameter 2.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D2.5mm
+SMD pad as test Point, diameter 2.5mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D3.0mm
+SMD pad as test Point, diameter 3.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D4.0mm
+SMD pad as test Point, diameter 4.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D2.0mm
+Plated Hole as test Point, diameter 2.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D3.0mm
+Plated Hole as test Point, diameter 3.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D4.0mm
+Plated Hole as test Point, diameter 4.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D5.0mm
+Plated Hole as test Point, diameter 5.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_THTPad_1.0x1.0mm_Drill0.5mm
+THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_1.5x1.5mm_Drill0.7mm
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_2.0x2.0mm_Drill1.0mm
+THT rectangular pad as test Point, square 2.0mm_Drill1.0mm  side length, hole diameter 1.0mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_2.5x2.5mm_Drill1.2mm
+THT rectangular pad as test Point, square 2.5mm side length, hole diameter 1.2mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
+THT rectangular pad as test Point, square 3.0mm side length, hole diameter 1.5mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
+THT rectangular pad as test Point, square 4.0mm  side length, hole diameter 2.0mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D1.0mm_Drill0.5mm
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D1.5mm_Drill0.7mm
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D2.0mm_Drill1.0mm
+THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D2.5mm_Drill1.2mm
+THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm 
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D3.0mm_Drill1.5mm
+THT pad as test Point, diameter 3.0mm, hole diameter 1.5mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D4.0mm_Drill2.0mm
+THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm
+test point THT pad
+0
+1
+1
