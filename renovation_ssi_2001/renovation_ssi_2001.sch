@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "RENOVATION SSI-2001"
-Date "2020-03-10"
+Date "2020-03-13"
 Rev ""
 Comp "Benedikt Freisen"
 Comment1 ""
@@ -1275,8 +1275,6 @@ NoConn ~ 12650 6800
 NoConn ~ 12650 6900
 NoConn ~ 12650 7000
 NoConn ~ 13950 7900
-Text Notes 14450 8600 0    50   ~ 0
-Note:\n\nSID_D5 is SWDIO, SID_D6 is SWCLK
 NoConn ~ 12650 7200
 NoConn ~ 12650 7300
 NoConn ~ 12650 7400
@@ -2048,7 +2046,7 @@ L Device:R R9
 U 1 1 5E182A07
 P 12500 2550
 F 0 "R9" H 12570 2596 50  0000 L CNN
-F 1 "10k" H 12570 2505 50  0000 L CNN
+F 1 "110" H 12570 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 12430 2550 50  0001 C CNN
 F 3 "~" H 12500 2550 50  0001 C CNN
 	1    12500 2550
@@ -2059,7 +2057,7 @@ L Device:R R10
 U 1 1 5E183562
 P 12500 2850
 F 0 "R10" H 12570 2896 50  0000 L CNN
-F 1 "1k" H 12570 2805 50  0000 L CNN
+F 1 "180" H 12570 2805 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 12430 2850 50  0001 C CNN
 F 3 "~" H 12500 2850 50  0001 C CNN
 	1    12500 2850
@@ -2652,8 +2650,6 @@ Wire Wire Line
 	5300 9800 5300 10100
 Wire Wire Line
 	5200 9600 5200 9700
-Text Notes 14500 3300 0    50   ~ 0
-Note:\n\nSTM32: R9=10k, R10=1k\n\nMOS 6581: JP2 bridged\nU11, R9, R10, C17-C19 unpopulated\n\nMOS 8580: R9=1k, R10=2k\nC18, C19 unpopulated
 Text Notes 9700 5700 0    50   ~ 0
 Note:\n\nSTM32: C3, C4 unpopulated\n\nMOS 6581/8580 : U12, R7, R18, C20 unpopulated\n\nJ7 is always populated and serves either\nas the socket for the SID chip or as\nprogramming port for the STM32.
 Text Notes 5200 10600 0    50   ~ 0
@@ -2706,4 +2702,10 @@ Wire Wire Line
 	6100 5800 6100 6000
 Text Notes 3700 6500 0    50   ~ 0
 (Fast ISA mod: Disconnect U2 pad 4 from trace and bridge to TP1.)
+Text Notes 15000 4800 0    50   ~ 0
+Equivalent substitute:\nCUI RCJ-041.\nVariants with different\ncolor or plating exist.
+Text Notes 14500 3300 0    50   ~ 0
+Note:\n\nSTM32: R9=110, R10=180 ; or:\nU11=LM1117-3.3, R9=DNP, R10=0\n\nMOS 6581: JP2 bridged\nU11, R9, R10, C17-C19 unpopulated\n\nMOS 8580: R9=100, R10=620\nC18, C19 unpopulated
+Text Notes 14450 8700 0    50   ~ 0
+Note:\n\nSID_D5 is SWDIO, SID_D6 is SWCLK.\nUse ST-LINK/V2 or similar for\nin-circuit programming.
 $EndSCHEMATC
