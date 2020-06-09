@@ -20,6 +20,16 @@ You will need the following vintage components for a visually accurate replica:
 - A SID chip (MOS 6581 or MOS 8580, the latter with a hidden voltage regulator)
 - An NE558 quad timer IC for the joystick interface
 
+## Bill of materials
+
+The design files of this project combine multiple possible hardware configurations in the same schematic diagram and PCB layout.
+Hence, the unmodified tool-generated BOM will not yield a sensible hardware configuration.
+Please read the notes in the schematic diagram, decide which variant you want to build and adjust the BOM, accordingly.
+
+## Configuration
+
+Please consult the [settings document](doc/settings.md) for jumper settings.
+
 ## License
 
 The following license applies to the files in this repository:
