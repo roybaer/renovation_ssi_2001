@@ -11,7 +11,9 @@ All optional modern replacement components share the location of the vintage par
 
 This picture shows the front of the card.
 
-![Front view](img/rendering_front.jpg)
+![Front view](img/photo_front.jpg)
+
+There is also a picture of the [back side of the card](img/photo_back.jpg).
 
 ## Optional vintage components
 
