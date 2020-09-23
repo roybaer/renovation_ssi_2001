@@ -32,6 +32,15 @@ Please read the notes in the schematic diagram, decide which variant you want to
 
 Please consult the [settings document](doc/settings.md) for jumper settings.
 
+## Additional notes
+
+The planned adaptation of the [STM32-SID-PLAYER](https://github.com/Bakisha/STM32-SID-PLAYER) firmware for this card, i.e. the implementation of an ISA interface for the synthesizer core is still pending.
+Right now, this card is therefore only usable in combination with either an original SID or a modern substitute like the SwinSID.
+
+The exact DA15 and RCA connectors found on the original card are no longer available and have therefore been replaced by affordable modern variants.
+Furthermore, the RCA jack and the mounting holes have been shifted to simplify the adaptation of the generic Keystone 9202 ISA bracket.
+
+
 ## License
 
 The following license applies to the files in this repository:
